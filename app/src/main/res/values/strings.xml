@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EiLight</string>
+    <string name="ei_light">Ei Light</string>
+    <string name="turn_on">Turn ON</string>
+    <string name="turn_off">Turn OFF</string>
+    <string name="success_connected">Success Connected</string>
+    <string name="failed_connected">Failed Connected</string>
+    <string name="connected">Connect</string>
+</resources>
